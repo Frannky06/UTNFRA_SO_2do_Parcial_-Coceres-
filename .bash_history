@@ -202,3 +202,14 @@ git config --global main
 git branch -m main
 git init
 git add 202406/
+git add .bash_history 
+git add RTA_Examen_20241118/
+git commit -m "Entrega Segundo Parcial ARSO"
+git config --global user.email "franciscococeres040@gmail.com"
+git config --global user.name "FranCoceres"
+git commit -m "Entrega Segundo Parcial ARSO"
+git remote add origin https://github.com/Frannky06/UTNFRA_SO_2do_Parcial_-Coceres-.git
+git push -u origin main
+git pull origin main
+git pull --rebase origin main
+git commit -m "Entrega Segundo Parcial ARSO"
