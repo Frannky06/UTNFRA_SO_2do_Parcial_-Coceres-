@@ -213,3 +213,16 @@ git push -u origin main
 git pull origin main
 git pull --rebase origin main
 git commit -m "Entrega Segundo Parcial ARSO"
+git add .bash_history 
+git commit -m "Entrega Segundo Parcial ARSO"
+git push -u origin main
+git pull origin main
+ls
+sudo fdisk -l
+ls
+git status
+git add 202406/
+git add UTN-FRA_SO_Examenes/
+git rm --cached UTN-FRA_SO_Examenes/
+git rm --cached UTN-FRA_SO_Examenes/ -f
+ls
