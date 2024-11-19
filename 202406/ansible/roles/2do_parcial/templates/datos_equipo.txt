@@ -1,0 +1,3 @@
+IP: 192.56.58.02 
+Distribucion: ubuntujammy
+Cantidad de cores: 6
